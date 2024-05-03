@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: rgb(11, 39, 115);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(203, 195, 195);
+}
+
+.main{
+    width: 65%;
+    justify-content: center;
+    align-items: center;
+    border: 7px solid orangered;
+    margin: auto;
+    background-color: rgb(255, 250, 250);
+}
